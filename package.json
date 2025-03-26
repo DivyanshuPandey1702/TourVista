@@ -1,7 +1,7 @@
 {
-  "name": "natours",
+  "name": "TourVista",
   "version": "1.0.0",
-  "description": "learning node express and mongodb",
+  "description": "A Tourism Website",
   "main": "app.js",
   "scripts": {
     "start": "nodemon server.js",
